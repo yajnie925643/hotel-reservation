@@ -4,3 +4,5 @@
 
 /.vs/HotelReservation/v15/Server/sqlite3
 /.vs/HotelReservation/v15/.suo
+/.vs/config
+/HotelReservation/bin/Debug/netcoreapp2.2
